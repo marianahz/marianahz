@@ -1,8 +1,8 @@
 ## Hi there, I'm Mariana 👋
 
-🎓 Computer Science BS at CSU<\br>
-✏️ Designer, editor, artist<\br>
-🖥️ Looking to improve my skills!<\br>
+🎓 Computer Science BS at CSU<br/>
+✏️ Designer, editor, artist<br/>
+🖥️ Looking to improve my skills!<br/>
 
 
 # 💻 Tech Stack:
